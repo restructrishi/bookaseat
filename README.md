@@ -5,7 +5,7 @@ This is a simple web application that allows users to change the background colo
 - Change the background color to a random color.
 - Predefined color options for easy selection.
 - Minimalistic and responsive design.
-- 
+  
 # Technologies Used
 - HTML: Structure of the web page.
 - CSS: Styling and layout.
@@ -15,8 +15,8 @@ This is a simple web application that allows users to change the background colo
 
 Default View
 
-App Screenshot
+"D:\JavaScript\07_projects\proj1.1.png"
 
 After Changing Background
 
-App Screenshot
+"D:\JavaScript\07_projects\proj1.png"
