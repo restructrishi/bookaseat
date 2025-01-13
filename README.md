@@ -15,8 +15,8 @@ This is a simple web application that allows users to change the background colo
 
 Default View
 
-"D:\JavaScript\07_projects\proj1.1.png"
+![proj1](https://github.com/user-attachments/assets/aeb4e59b-5093-4730-9bff-0f82c319f17e)
 
 After Changing Background
 
-"D:\JavaScript\07_projects\proj1.png"
+![proj1 1](https://github.com/user-attachments/assets/d01bfd9d-b01d-4598-8dd1-49e05b1e8272)
